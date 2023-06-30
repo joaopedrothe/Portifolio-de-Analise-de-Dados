@@ -1,5 +1,5 @@
 ## Analise de Dados
 ##
-Olá! Bem vindx ao meu espaço!
-Meu nome é João, sou um graduando em Administração que descobriu um amor platônico pelo mundo dos dados. Gostaria de compartilhar algumas análises que tenho desenvolvido com o intuito de evoluir meu conhecimento pratico e compartilhar aquilo que tenho aprendido. 
-Tenho como objetivo a geração de valor para todas as partes interessadas, procuro desenvolver isso através de analises, conexão entre area de negócios e tecnologia, fomentando assim a cultura Data Drive.
+Olá! Seja muito bem-vindo(a) ao meu espaço digital! Me chamo João, e sou um estudante de Administração que se apaixonou perdidamente pelo universo dos dados. Este é um espaço onde compartilho diversas análises que venho desenvolvendo, com o propósito de aprimorar minhas habilidades práticas e compartilhar os insights que venho adquirindo.
+
+Meu principal objetivo é gerar valor para todos os envolvidos, buscando sempre estabelecer uma ponte sólida entre as áreas de negócios e tecnologia. Com isso, espero contribuir para a promoção da cultura Data-Driven.
